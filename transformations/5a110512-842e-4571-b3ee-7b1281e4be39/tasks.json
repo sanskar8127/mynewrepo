@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1026096921774788609,
+      "job_id": "5a110512-842e-4571-b3ee-7b1281e4be39",
+      "query": "insert into Task(abc);",
+      "is_active": true
+    }
+  ]
+}

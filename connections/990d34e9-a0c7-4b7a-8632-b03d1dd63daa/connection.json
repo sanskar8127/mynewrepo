@@ -1,0 +1,23 @@
+{
+  "id": "990d34e9-a0c7-4b7a-8632-b03d1dd63daa",
+  "display_name": "SAP_gateway",
+  "name": "sap_gateway",
+  "connector": {
+    "name": "CData SAPGateway",
+    "version": "26.0.9769.0"
+  },
+  "properties": {
+    "AuthScheme": "Basic",
+    "Password": "SECURE:z5CQZs+HxTsTUC4JHrAxvRiKwxVIUjL9kmqSMLi//XOHUtDqM51Rt8OhoufqesKNdc5zGyzfAIAg",
+    "Namespace": "sap",
+    "User": "DEVELOPER",
+    "URL": "http://linux-a1.support.clouddataos.com:8000"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 1,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

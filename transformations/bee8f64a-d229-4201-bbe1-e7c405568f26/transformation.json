@@ -1,0 +1,22 @@
+{
+  "id": "bee8f64a-d229-4201-bbe1-e7c405568f26",
+  "name": "trans1",
+  "pipeline_id": null,
+  "type": 4,
+  "destination_connector": "mysql",
+  "trigger": {
+    "type": ""
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 5,
+    "command_timeout": 300
+  },
+  "labels": []
+}

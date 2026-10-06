@@ -1,0 +1,26 @@
+{
+  "id": "b35c7809-e2f0-4fe8-8e10-f6e0c78c1458",
+  "display_name": "SQLServer_src",
+  "name": "sqlserver_src",
+  "connector": {
+    "name": "CData SQL",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "localhost",
+    "AuthScheme": "Password",
+    "Database": "test",
+    "Password": "SECURE:ooopim1pyA+E0rZruT7lHEPFMDi80v3J7oeBWnobDdS1cOyFPomnycKmuIauvqkajg9s2txEUh6Q",
+    "Port": "1433",
+    "Encrypt": "False",
+    "UseSSH": "False",
+    "User": "sa"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

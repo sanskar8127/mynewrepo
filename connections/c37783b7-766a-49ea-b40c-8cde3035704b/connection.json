@@ -1,0 +1,23 @@
+{
+  "id": "c37783b7-766a-49ea-b40c-8cde3035704b",
+  "display_name": "adls",
+  "name": "adls",
+  "connector": {
+    "name": "Azure Data Lake Storage",
+    "version": "latest"
+  },
+  "properties": {
+    "AuthScheme": "AccessKey",
+    "AzureStorageAccount": "storagev2heirarchical",
+    "AzureAccessKey": "SECURE:eBv5Qjuo6Na1J5wdo1wd3oCtHRmvjbkaMkoMz0FLDNCrET7vk/A9eP8Qv2yjW767a6AON2topQR9BauDjpKBQTlMBX13O8EajE827GoF6KcbKpbpY3nJkmOPop0zGEDIpDX50e7W7yiXyMFZAjrtmmmYl76+4qKQQT2x9XEoqRScRrKL6RkC4g==",
+    "ConnectionType": "Azure Data Lake Storage Gen2 SSL",
+    "URI": "abfss://blobcontainerheirarchical/parquetTest"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

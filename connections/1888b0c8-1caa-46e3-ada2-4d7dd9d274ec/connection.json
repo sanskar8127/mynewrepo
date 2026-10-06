@@ -1,0 +1,24 @@
+{
+  "id": "1888b0c8-1caa-46e3-ada2-4d7dd9d274ec",
+  "display_name": "Oracle",
+  "name": "oracle",
+  "connector": {
+    "name": "Oracle",
+    "version": "latest"
+  },
+  "properties": {
+    "Server": "syncqa-oracle-do-not-delete.chza6whtw45r.us-east-1.rds.amazonaws.com",
+    "Password": "SECURE:0yUQrjkuNw3rRRZrZI1gXURbcKpDsyATIPaBpg/LURftyq7HnnuOHrBANiaU5Q5G9X/virdtl0s=",
+    "Port": "1521",
+    "Service": "ORCL",
+    "ConnectionType": "Service Name",
+    "User": "admin"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}

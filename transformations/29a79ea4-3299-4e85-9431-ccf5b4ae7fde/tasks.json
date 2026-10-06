@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 993039562223783937,
+      "job_id": "29a79ea4-3299-4e85-9431-ccf5b4ae7fde",
+      "query": "insert into sync_13002new values\n(5517473646, 'test1'),\n(5564736478, 'test2'),\n(5517673646, 'test1'),\n(5564236478, 'test2'),\n(5564436478, 'test2'),\n(5517476646, 'test1'),\n(5564476478, 'test2');",
+      "is_active": true
+    }
+  ]
+}

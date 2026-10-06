@@ -1,0 +1,23 @@
+{
+  "id": "bc307e26-f5de-4cc5-b480-a7abd458de62",
+  "display_name": "newsap",
+  "name": "newsap",
+  "connector": {
+    "name": "CData SAPGateway",
+    "version": "latest"
+  },
+  "properties": {
+    "AuthScheme": "Basic",
+    "Password": "SECURE:ULyB1ItV9QGR9ysmf6NCjwxAu5G1pXFeMTcPGpTLJSb4xn3RYXSZ2/48E/NvMBkfRa98wJTVys05ll5LdzZH",
+    "Namespace": "sap",
+    "User": "DEVELOPER",
+    "URL": "http://localhost:50000"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 1,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}
