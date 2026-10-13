@@ -1,0 +1,23 @@
+{
+  "id": "117585cb-d06c-4b34-b339-061766584b43",
+  "name": "trans1",
+  "pipeline_id": null,
+  "type": 4,
+  "destination_connector": "mysql",
+  "trigger": {
+    "type": "Scheduled",
+    "cron": "*/10 * * * ?"
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 2,
+    "command_timeout": 300
+  },
+  "labels": []
+}

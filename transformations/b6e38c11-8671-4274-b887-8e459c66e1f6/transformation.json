@@ -1,0 +1,22 @@
+{
+  "id": "b6e38c11-8671-4274-b887-8e459c66e1f6",
+  "name": "trans_GBQ2",
+  "pipeline_id": null,
+  "type": 4,
+  "destination_connector": "gbq",
+  "trigger": {
+    "type": null
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 2,
+    "command_timeout": 300
+  },
+  "labels": []
+}

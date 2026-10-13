@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1028254059234201600,
+      "job_id": "0ced35c3-c1af-4e41-863f-76428ca12a6f",
+      "query": "update newtable set age=43 where id=34",
+      "is_active": true
+    }
+  ]
+}

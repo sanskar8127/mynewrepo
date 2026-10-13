@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1028231891658084352,
+      "job_id": "86ecb53c-76eb-493c-bfaa-d7add66d2c2b",
+      "query": "insert into newtable_cdccheck1 values(205,'ettget',21),(206,'regtgtg',41)",
+      "is_active": true
+    },
+    {
+      "id": 1028231891658084353,
+      "job_id": "86ecb53c-76eb-493c-bfaa-d7add66d2c2b",
+      "query": "update newtable_cdccheck1 set age=43 where id=21",
+      "is_active": true
+    }
+  ]
+}

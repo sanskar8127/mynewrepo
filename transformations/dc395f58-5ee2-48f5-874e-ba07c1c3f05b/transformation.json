@@ -1,0 +1,22 @@
+{
+  "id": "dc395f58-5ee2-48f5-874e-ba07c1c3f05b",
+  "name": "trans3",
+  "pipeline_id": null,
+  "type": 4,
+  "destination_connector": "sqlserver",
+  "trigger": {
+    "type": null
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 2,
+    "command_timeout": 300
+  },
+  "labels": []
+}

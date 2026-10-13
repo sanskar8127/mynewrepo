@@ -1,0 +1,25 @@
+{
+  "id": "8c7bdc09-4920-4ac2-890a-329f1d2952bf",
+  "display_name": "verticaconn",
+  "name": "verticaconn",
+  "connector": {
+    "name": "CData Vertica",
+    "version": "26.0.9777.0"
+  },
+  "properties": {
+    "Server": "localhost",
+    "Password": "SECURE:O/UpU2bMH0cM6KZGoKMswmfflqYS8N7TnmetWfl/DSsm0hnKsEhiugvdlJ06ErN3QLiOcOfbUyE9/cix+F8=",
+    "Database": "vertica",
+    "Other": "SupportNativeDataType=true;",
+    "Port": "5433",
+    "SupportNativeDataType": "true",
+    "User": "dbadmin"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

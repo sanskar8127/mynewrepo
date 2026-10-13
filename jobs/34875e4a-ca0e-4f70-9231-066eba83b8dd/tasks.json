@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1028549786858557441,
+      "job_id": "34875e4a-ca0e-4f70-9231-066eba83b8dd",
+      "query": "REPLICATE [Products] SELECT * FROM [SEPMRA_SHOP].[Products]",
+      "is_active": true
+    },
+    {
+      "id": 1028549786858557443,
+      "job_id": "34875e4a-ca0e-4f70-9231-066eba83b8dd",
+      "query": "REPLICATE [Reviews] SELECT * FROM [SEPMRA_SHOP].[Reviews]",
+      "is_active": true
+    },
+    {
+      "id": 1028569947678314497,
+      "job_id": "34875e4a-ca0e-4f70-9231-066eba83b8dd",
+      "query": "REPLICATE [RegistryMetadataCollection] SELECT * FROM [SCTS_GCTS_SRV].[RegistryMetadataCollection]",
+      "is_active": true
+    }
+  ]
+}

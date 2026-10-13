@@ -8,7 +8,8 @@
   },
   "properties": {
     "AuthScheme": "None",
-    "ConnectionType": "Local"
+    "ConnectionType": "Local",
+    "URI": "C:\\csv_files"
   },
   "labels": [],
   "settings": {

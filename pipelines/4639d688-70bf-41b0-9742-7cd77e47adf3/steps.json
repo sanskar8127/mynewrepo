@@ -1,0 +1,39 @@
+{
+  "steps": [
+    {
+      "id": "e21939b4-8375-4fe9-878f-0b5849584f35",
+      "pipeline_id": "4639d688-70bf-41b0-9742-7cd77e47adf3",
+      "step_type": 1,
+      "entity_id": "9ae2bfc9-312f-4194-8b7e-bf07d4ce0d19",
+      "previous_steps": [],
+      "next_steps": [
+        "0181fdb8-407a-4e31-81e5-5c28cdeb2884"
+      ],
+      "conditions": {}
+    },
+    {
+      "id": "0181fdb8-407a-4e31-81e5-5c28cdeb2884",
+      "pipeline_id": "4639d688-70bf-41b0-9742-7cd77e47adf3",
+      "step_type": 2,
+      "entity_id": "3cb17125-5349-4c33-a5ea-a3746424c4bf",
+      "previous_steps": [
+        "e21939b4-8375-4fe9-878f-0b5849584f35"
+      ],
+      "next_steps": [
+        "bb84fbd4-8d20-48cb-b8d0-720cde48f39c"
+      ],
+      "conditions": {}
+    },
+    {
+      "id": "bb84fbd4-8d20-48cb-b8d0-720cde48f39c",
+      "pipeline_id": "4639d688-70bf-41b0-9742-7cd77e47adf3",
+      "step_type": 2,
+      "entity_id": "0ced35c3-c1af-4e41-863f-76428ca12a6f",
+      "previous_steps": [
+        "0181fdb8-407a-4e31-81e5-5c28cdeb2884"
+      ],
+      "next_steps": [],
+      "conditions": {}
+    }
+  ]
+}

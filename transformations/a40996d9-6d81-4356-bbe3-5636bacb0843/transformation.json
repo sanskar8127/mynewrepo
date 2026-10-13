@@ -1,0 +1,22 @@
+{
+  "id": "a40996d9-6d81-4356-bbe3-5636bacb0843",
+  "name": "dbtcloud_trans2",
+  "pipeline_id": null,
+  "type": 9,
+  "destination_connector": "",
+  "trigger": {
+    "type": null
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 2,
+    "command_timeout": 300
+  },
+  "labels": []
+}

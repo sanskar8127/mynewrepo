@@ -1,0 +1,24 @@
+{
+  "id": "0bbb5ec1-e04b-48d8-9ab2-957f6d2f2cf0",
+  "display_name": "informix",
+  "name": "informix",
+  "connector": {
+    "name": "Informix",
+    "version": "latest"
+  },
+  "properties": {
+    "Database": "sysmaster",
+    "Password": "SECURE:la686qKRsPIpqPBxSlcHpFJHWlx1PPCBz2EVgNQwrapHFVfLb3V8trcIo32/DS0kzjTdiBtr",
+    "Port": "9088",
+    "DELIMIDENT": "y",
+    "Host": "localhost",
+    "User": "informix"
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 0
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "tasks": [
+    {
+      "id": 1028618442862891009,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table21_ct] SELECT * FROM [dbo].[table21_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891011,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table22_ct] SELECT * FROM [dbo].[table22_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891013,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table23_ct] SELECT * FROM [dbo].[table23_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891015,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table24_ct] SELECT * FROM [dbo].[table24_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891017,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table25_ct] SELECT * FROM [dbo].[table25_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891019,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table26_ct] SELECT * FROM [dbo].[table26_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891021,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table27_ct] SELECT * FROM [dbo].[table27_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891023,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table28_ct] SELECT * FROM [dbo].[table28_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891025,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table29_ct] SELECT * FROM [dbo].[table29_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891027,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table30_ct] SELECT * FROM [dbo].[table30_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891029,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table31_ct] SELECT * FROM [dbo].[table31_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891031,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table32_ct] SELECT * FROM [dbo].[table32_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891033,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table33_ct] SELECT * FROM [dbo].[table33_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891035,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table34_ct] SELECT * FROM [dbo].[table34_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891037,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table35_ct] SELECT * FROM [dbo].[table35_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891039,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table36_ct] SELECT * FROM [dbo].[table36_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891041,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table37_ct] SELECT * FROM [dbo].[table37_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891043,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table38_ct] SELECT * FROM [dbo].[table38_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891045,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table39_ct] SELECT * FROM [dbo].[table39_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891047,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table40_ct] SELECT * FROM [dbo].[table40_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891049,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table41_ct] SELECT * FROM [dbo].[table41_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891051,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table42_ct] SELECT * FROM [dbo].[table42_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891053,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table43_ct] SELECT * FROM [dbo].[table43_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891055,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table44_ct] SELECT * FROM [dbo].[table44_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891057,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table45_ct] SELECT * FROM [dbo].[table45_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891059,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table1_ct] SELECT * FROM [dbo].[table1_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891061,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table46_ct] SELECT * FROM [dbo].[table46_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891063,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table2_ct] SELECT * FROM [dbo].[table2_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891065,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table47_ct] SELECT * FROM [dbo].[table47_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891067,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table3_ct] SELECT * FROM [dbo].[table3_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891069,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table48_ct] SELECT * FROM [dbo].[table48_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891071,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table4_ct] SELECT * FROM [dbo].[table4_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891073,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table49_ct] SELECT * FROM [dbo].[table49_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891075,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table5_ct] SELECT * FROM [dbo].[table5_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891077,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table50_ct] SELECT * FROM [dbo].[table50_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891079,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table6_ct] SELECT * FROM [dbo].[table6_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891081,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table51_ct] SELECT * FROM [dbo].[table51_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891083,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table7_ct] SELECT * FROM [dbo].[table7_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891085,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table52_ct] SELECT * FROM [dbo].[table52_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891087,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table8_ct] SELECT * FROM [dbo].[table8_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891089,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table53_ct] SELECT * FROM [dbo].[table53_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891091,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table9_ct] SELECT * FROM [dbo].[table9_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891093,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table54_ct] SELECT * FROM [dbo].[table54_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891095,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table10_ct] SELECT * FROM [dbo].[table10_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891097,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table55_ct] SELECT * FROM [dbo].[table55_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891099,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table11_ct] SELECT * FROM [dbo].[table11_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891101,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table12_ct] SELECT * FROM [dbo].[table12_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891103,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table13_ct] SELECT * FROM [dbo].[table13_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891105,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table14_ct] SELECT * FROM [dbo].[table14_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891107,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table15_ct] SELECT * FROM [dbo].[table15_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891109,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table16_ct] SELECT * FROM [dbo].[table16_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891111,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table17_ct] SELECT * FROM [dbo].[table17_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891113,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table18_ct] SELECT * FROM [dbo].[table18_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891115,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table19_ct] SELECT * FROM [dbo].[table19_ct]",
+      "is_active": true
+    },
+    {
+      "id": 1028618442862891117,
+      "job_id": "764ea3cf-f350-427e-b36e-12beb348e63e",
+      "query": "REPLICATE [table20_ct] SELECT * FROM [dbo].[table20_ct]",
+      "is_active": true
+    }
+  ]
+}

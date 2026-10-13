@@ -1,0 +1,17 @@
+{
+  "id": "d8d59c61-7a4c-48aa-8640-60cd284de1bf",
+  "name": "pipeline5",
+  "destination": "b35c7809-e2f0-4fe8-8e10-f6e0c78c1458",
+  "schedule": {
+    "enabled": false,
+    "cron": null
+  },
+  "properties": {},
+  "alerts": {
+    "send_email_notification": false,
+    "notify_email_subject": null,
+    "notify_email_to": null,
+    "email_error_only": false
+  },
+  "labels": []
+}

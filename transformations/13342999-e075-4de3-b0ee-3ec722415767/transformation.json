@@ -1,0 +1,22 @@
+{
+  "id": "13342999-e075-4de3-b0ee-3ec722415767",
+  "name": "transMySQL1",
+  "pipeline_id": null,
+  "type": 4,
+  "destination_connector": "mysql",
+  "trigger": {
+    "type": ""
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 2,
+    "command_timeout": 300
+  },
+  "labels": []
+}

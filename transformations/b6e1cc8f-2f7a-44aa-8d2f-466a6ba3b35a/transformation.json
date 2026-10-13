@@ -1,0 +1,22 @@
+{
+  "id": "b6e1cc8f-2f7a-44aa-8d2f-466a6ba3b35a",
+  "name": "pipeline2_SQLtrans",
+  "pipeline_id": null,
+  "type": 4,
+  "destination_connector": "sqlserver",
+  "trigger": {
+    "type": "None"
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 2,
+    "command_timeout": 300
+  },
+  "labels": []
+}

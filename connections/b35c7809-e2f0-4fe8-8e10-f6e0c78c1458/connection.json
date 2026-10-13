@@ -9,8 +9,8 @@
   "properties": {
     "Server": "localhost",
     "AuthScheme": "Password",
-    "Database": "test",
-    "Password": "SECURE:ooopim1pyA+E0rZruT7lHEPFMDi80v3J7oeBWnobDdS1cOyFPomnycKmuIauvqkajg9s2txEUh6Q",
+    "Database": "sync_performance",
+    "Password": "SECURE:utzCuEl+SQMaD+C9z7W3AU0hvWU8S+1uPIxGGmiLE9QnWTtTgDyKC4HwajAQa62srThJMyrlUp7j",
     "Port": "1433",
     "Encrypt": "False",
     "UseSSH": "False",

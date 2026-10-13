@@ -1,0 +1,24 @@
+{
+  "id": "6cbe952c-6167-4ae0-8141-c173cd82b7fd",
+  "name": "trans2",
+  "pipeline_id": null,
+  "type": 4,
+  "destination_connector": "sqlserver",
+  "trigger": {
+    "type": "AfterJob",
+    "job_name": "b36aa8f0-9368-4852-b3be-e6d258f6a81f",
+    "job_tasks": []
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 2,
+    "command_timeout": 300
+  },
+  "labels": []
+}

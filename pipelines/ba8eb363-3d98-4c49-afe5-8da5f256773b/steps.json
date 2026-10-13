@@ -1,0 +1,26 @@
+{
+  "steps": [
+    {
+      "id": "225e4b06-57ff-4e0b-974d-733c7c57c9a1",
+      "pipeline_id": "ba8eb363-3d98-4c49-afe5-8da5f256773b",
+      "step_type": 1,
+      "entity_id": "a6160905-57ee-4e15-860c-a83418c70a49",
+      "previous_steps": [],
+      "next_steps": [
+        "dff0b1a2-62f5-4db9-ba5b-e8d0bd8d6701"
+      ],
+      "conditions": {}
+    },
+    {
+      "id": "dff0b1a2-62f5-4db9-ba5b-e8d0bd8d6701",
+      "pipeline_id": "ba8eb363-3d98-4c49-afe5-8da5f256773b",
+      "step_type": 2,
+      "entity_id": "b6e1cc8f-2f7a-44aa-8d2f-466a6ba3b35a",
+      "previous_steps": [
+        "225e4b06-57ff-4e0b-974d-733c7c57c9a1"
+      ],
+      "next_steps": [],
+      "conditions": {}
+    }
+  ]
+}

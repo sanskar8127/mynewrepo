@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1028231333614325761,
+      "job_id": "b6e38c11-8671-4274-b887-8e459c66e1f6",
+      "query": "insert into sanskar.newtable3 values(201,'reftet',74,1)",
+      "is_active": true
+    }
+  ]
+}

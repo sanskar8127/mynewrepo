@@ -1,0 +1,25 @@
+{
+  "id": "9eeb1c1c-bd8f-4d1b-b95a-e24095e99118",
+  "display_name": "4545",
+  "name": "4545",
+  "connector": {
+    "name": "CData NetSuite",
+    "version": "latest"
+  },
+  "properties": {
+    "Schema": "SuiteTalk",
+    "AccountId": "TSTDRV1189931",
+    "AuthScheme": "Token",
+    "OAuthAccessTokenSecret": "SECURE:2/jLll6Fhp9rTnnFRV+7pSr+sAxWHDDEgt9u12/GKzbBnl5iRQkeIMxnPPuWoZPDdUr8zcFS5GDZwlgGO6OHS4FWSEojeZQOzOewgJyNSv2ivSGRNdcOYWKE3cehS7P2sgGBWl3KeYI1YoIbk5RGUQ==",
+    "OAuthClientId": "a164ffef8f8e78bbb30233c2d5c942acffbcf927d3e65ae3a14a4818dfa778cf",
+    "OAuthClientSecret": "SECURE:/AAxFiOQ4QDSPtkmHX1HnypSy1/RPFfQa9jmMA7Cd3oOZfaNtZCZXlEhz22p2s9+X9xSEnr1+5gEQVn2daLQyNSnFgdYEZDAchIE2I7tnd+ZlIBFXhRjcJtt6TxJJB0Y6ZYrhmZuKasPFC2GrhJT/g==",
+    "OAuthAccessToken": "SECURE:N4Ti9Cl3HbTSgaV3k/cpVfauX2Jv9ejHAOJ7P4pVhjS1TIFz1bicYIr6X/l0pDLMxBLaZW2eIP/HjC7tOLph7thXOfF3cNecJzKO6pvh0IV49svd9tMj7Ffri6DWcm0Lf+iTwus913gE8KBbyzwYFA=="
+  },
+  "labels": [],
+  "settings": {
+    "verbosity": 0,
+    "use_cdata_callback_url": 0,
+    "metadata_refresh_interval": 3600,
+    "use_sync_proxy": 1
+  }
+}

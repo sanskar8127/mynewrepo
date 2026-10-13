@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1028254491989905408,
+      "job_id": "a6160905-57ee-4e15-860c-a83418c70a49",
+      "query": "REPLICATE [abcblogs] SELECT * FROM [db2].[abcblogs]",
+      "is_active": true
+    }
+  ]
+}

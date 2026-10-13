@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1028253887519395840,
+      "job_id": "3cb17125-5349-4c33-a5ea-a3746424c4bf",
+      "query": "insert into newtable1",
+      "is_active": true
+    }
+  ]
+}

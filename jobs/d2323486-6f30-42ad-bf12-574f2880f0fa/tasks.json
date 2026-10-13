@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 1028932770421936129,
+      "job_id": "d2323486-6f30-42ad-bf12-574f2880f0fa",
+      "query": "REPLICATE [sanskar].[vertica_timestampTest] SELECT * FROM [public].[timestamp_test]",
+      "is_active": true
+    }
+  ]
+}

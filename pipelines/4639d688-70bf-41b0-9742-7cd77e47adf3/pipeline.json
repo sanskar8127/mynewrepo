@@ -1,0 +1,17 @@
+{
+  "id": "4639d688-70bf-41b0-9742-7cd77e47adf3",
+  "name": "pipeline1",
+  "destination": "560f5519-4328-48a5-b081-8f75ccfae0ef",
+  "schedule": {
+    "enabled": false,
+    "cron": null
+  },
+  "properties": {},
+  "alerts": {
+    "send_email_notification": true,
+    "notify_email_subject": "CData Sync",
+    "notify_email_to": "sanskarg@cdata.com",
+    "email_error_only": false
+  },
+  "labels": []
+}

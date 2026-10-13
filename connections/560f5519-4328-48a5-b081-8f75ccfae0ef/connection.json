@@ -4,14 +4,15 @@
   "name": "mysql",
   "connector": {
     "name": "CData MySQL",
-    "version": "latest"
+    "version": "26.0.9782.0"
   },
   "properties": {
     "Server": "localhost",
     "AuthScheme": "Password",
-    "Password": "SECURE:6Rh948tVvT+RAb2LACrSn8kSYSDYG5eY1HKqX9sOKUQi43weO6NSR02UWE3+vj4rKe2UWcmy7MxzgA==",
-    "Database": "db2",
+    "Password": "SECURE:MmjwcZ7zOriOBj1o1S12IbehXH0zahVaYniB34VLqMG4/j7BFje+Fz0uwgIMUTjeHhWXCg1+B/CTDw==",
+    "Other": "Database=db2;",
     "Port": "3306",
+    "Database": "db2",
     "User": "root"
   },
   "labels": [],
