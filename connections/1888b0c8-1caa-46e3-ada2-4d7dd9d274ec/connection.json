@@ -1,7 +1,7 @@
 {
   "id": "1888b0c8-1caa-46e3-ada2-4d7dd9d274ec",
-  "display_name": "Oracle",
-  "name": "oracle",
+  "display_name": "Oracle2",
+  "name": "oracle2",
   "connector": {
     "name": "Oracle",
     "version": "latest"
